@@ -13,6 +13,9 @@ xserver-xorg-input-multitouch
 xserver-xorg-input-synaptics
 xserver-xorg-video-all
 xserver-xorg-video-intel
+firmware-amd-graphics 
+libglx-mesa0 
+mesa-vulkan-drivers 
 xfonts-base
 xfonts-scalable
 xfonts-75dpi
